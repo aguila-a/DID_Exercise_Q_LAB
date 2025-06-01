@@ -68,7 +68,7 @@ pip install pandas numpy statsmodels matplotlib seaborn
 
 
 ## Autores
-- Nombre del equipo: Anderson Aguila y Zarit de la Cruz
+- Integrantes del equipo: Anderson Aguila y Zarit de la Cruz
 
 ---
 Repositorio para el curso de **Econometría Aplicada Avanzada**, Profesor(a): **Cristina Tello-Trillo**.
